@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1411811253 source:d:\workspaces\c\consoleexamples\color_example.c
+	<stdio.h>
+	"consoleapi.h"
+
+1411872075 d:\workspaces\c\consoleexamples\consoleapi.h
+	<windows.h>
+
+1412040713 source:d:\workspaces\c\consoleexamples\main.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411719215 source:d:\workspaces\c\consoleexamples\mouse_example.c
+	<windows.h>
+	<stdio.h>
+	"consoleapi.h"
+
+1411807789 source:d:\workspaces\c\consoleexamples\screen_example.c
+	<windows.h>
+	<stdio.h>
+	"consoleapi.h"
+
+1411825120 source:d:\workspaces\c\consoleexamples\color_stripe.c
+	<stdio.h>
+	<stdlib.h>
+	"consoleapi.h"
+
+1411871151 source:d:\workspaces\c\consoleexamples\color_matrix.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411829590 source:d:\workspaces\c\consoleexamples\mouse_tracer.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"consoleapi.h"
+
+1412041096 source:d:\workspaces\c\consoleexamples\game_marrie.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411870171 source:d:\workspaces\c\consoleexamples\music.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411873622 source:d:\workspaces\c\consoleexamples\music_example.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411894835 source:d:\workspaces\c\consoleexamples\cursor_example.c
+	<windows.h>
+	<stdio.h>
+	"consoleapi.h"
+
+1416983380 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\color_example.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411872075 g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\consoleapi.h
+	<windows.h>
+
+1416983062 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\color_matrix.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1416930187 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\color_stripe.c
+	<stdio.h>
+	<stdlib.h>
+	"consoleapi.h"
+
+1416927405 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\cursor_example.c
+	<windows.h>
+	<stdio.h>
+	"consoleapi.h"
+	<conio.h>
+
+1416983532 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\game_marrie.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1416983588 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\main.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411829590 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\mouse_tracer.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"consoleapi.h"
+
+1415794431 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\music_example.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"consoleapi.h"
+
+1416983062 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\screen_example.c
+	<windows.h>
+	<stdio.h>
+	"consoleapi.h"
+	<conio.h>
+
+1416926818 source:g:\tzhg\øŒ≥Ã\14c”Ô—‘\consoleexamples\consoleexamples\mouse_tracer_update.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1416983380 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\color_example.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411872075 c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\consoleapi.h
+	<windows.h>
+
+1416983062 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\color_matrix.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1416930187 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\color_stripe.c
+	<stdio.h>
+	<stdlib.h>
+	"consoleapi.h"
+
+1416983908 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\game_marrie.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1416983588 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\main.c
+	<stdio.h>
+	<conio.h>
+	"consoleapi.h"
+
+1411829590 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\mouse_tracer.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"consoleapi.h"
+
+1416926818 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\mouse_tracer_update.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1415794431 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\music_example.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"consoleapi.h"
+
+1416983062 source:c:\users\administrator.qh-20150926uypr\desktop\c\consoleexamples\screen_example.c
+	<windows.h>
+	<stdio.h>
+	"consoleapi.h"
+	<conio.h>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ConsoleExamples" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ConsoleExamples" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="lib\Debug\libConsoleAPI.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ConsoleExamples" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-static" />
+					<Add library="lib\Release\libConsoleAPI.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="color_example.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="color_matrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="color_stripe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consoleapi.h" />
+		<Unit filename="cursor_example.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="game_marrie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mouse_tracer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mouse_tracer_update.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="music_example.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="screen_example.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
